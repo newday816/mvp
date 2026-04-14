@@ -6,7 +6,7 @@
 
 {"wallpaper":"https://深色壁纸.xxooo.cf/",
 "warningText":"标兄提示您：接口本人有时间就维护，完全免费！",
-"spider":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+"spider":"https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/wzb.jar",
 "logo":"https://gitee.com/zhan-zhaobb/MVP/raw/master/wzb.jpg",
 
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
