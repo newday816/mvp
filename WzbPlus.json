@@ -5,7 +5,7 @@
 // 配置接口设定 --> clan://localhost/DIYBOX/文件名字.json
 
 {"wallpaper":"https://深色壁纸.xxooo.cf/",
-"warningText":"标兄提示您：接口本人有时间就维护，完全免费！",
+"warningText":"Brilliant提示您：接口本人有时间就维护，完全免费！",
 "spider":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar",
 "logo":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jpg",
 
@@ -16,6 +16,7 @@
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"弹幕","name":"🅿弹幕┃刷新自动启动","type":3,"api":"csp_GoConfigAmnsr","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+{"key":"点播电影","name":"🐼️点播┃电影3W","type":3,"searchable":0,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/live2vod.js","ext":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/feimaolive.json"},
 {"key": "索尼","name": "💖VIP专享-索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
 {"key":"csp_xml_超速资源","name":"🔥超速资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"采集各大官方","name":"🔥采集各大官方","type":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
@@ -184,12 +185,15 @@
       "categories": ["国产剧","国产综艺","国产动漫","韩剧","日本动漫","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片", "动画电影","网络电影","港剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","韩国动漫","港台动漫"]},
 {"key": "1080资源","name": "💖1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧大全","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","韩国剧","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
-	
-{"key":"极速资源","name":"💖极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
-	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},    
-
 {"key":"zhuijuwu","name":"💖追剧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
+{"key":"极速资源","name":"💖极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
+	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},   
+
+{"key":"csp_Jianpian","name":"🥺荐片┃VOX","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":{"filters":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/jianpian.json","imgUrl":"https://img.jgsfnl.com","sites":"https://api.ztcgi.com"}},
+{"key":"cat_HDmoli","name":"⛵HDmoli┃影院","type":3,"timeout":60,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/HDmoli.js"},
+{"key":"人人PHP","name":"👭人人┃PHP","type":4,"api":"http://jiduo.3116598.xyz/PHP/rrsp.php","changeable":1},
+
 {"key":"Dm84","name":" 🌸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ying","name":"🌸樱花合集","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_优酷","name":"🌸优酷少儿","type":3,"api":"https://pan.shangui.cc/f/8jNPio/drpy2.min.js","ext":"https://pan.shangui.cc/f/zx8yF0/%E4%BC%98%E9%85%B7.js"},
