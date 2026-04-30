@@ -209,18 +209,13 @@
 {"key":"极速资源","name":"💖极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},   
 
-{"key":"本地资源","name":"⚡️↓JS系列↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
 {"key": "歪片星球[资]","name": "💝分享歪片","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "https://d.kstore.dev/download/4127/js/歪片.js"},
-
-{"key":"csp_Jianpian","name":"🥺荐片┃VOX","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":{"filters":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/jianpian.json","imgUrl":"https://img.jgsfnl.com","sites":"https://api.ztcgi.com"}},
-{"key":"cat_HDmoli","name":"⛵HDmoli┃影院","type":3,"timeout":60,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/HDmoli.js"},
 {"key":"人人PHP","name":"👭人人┃PHP","type":4,"api":"http://jiduo.3116598.xyz/PHP/rrsp.php","changeable":1},
 
-{"key":"Dm84","name":" 🌸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Ying","name":"🌸樱花合集","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_优酷","name":"🌸优酷少儿","type":3,"api":"https://pan.shangui.cc/f/8jNPio/drpy2.min.js","ext":"https://pan.shangui.cc/f/zx8yF0/%E4%BC%98%E9%85%B7.js"},
-{"key":"drpy_js_腾云驾雾","name":"🌸Q腾少儿","type":3,"api":"https://pan.shangui.cc/f/8jNPio/drpy2.min.js","ext":"https://pan.shangui.cc/f/ZRQBHv/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
-{"key":"360_spider","name":"🌸360少儿","type":3,"api":"https://pan.shangui.cc/f/8jNPio/drpy2.min.js","ext":"https://pan.shangui.cc/f/JzklCK/360%E5%BD%B1%E8%A7%86.js"}
+{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"}
 
 ],
 "parses": [
