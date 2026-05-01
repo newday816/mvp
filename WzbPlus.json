@@ -17,6 +17,7 @@
 "sites":[
 
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key":"弹幕","name":"🅿弹幕┃刷新自动启动","type":3,"api":"csp_GoConfigAmnsr","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key": "央视片库","name": "🇨🇳分享央视","type": 3,"api": "https://d.kstore.dev/download/4127/PY/%E5%88%86%E4%BA%AB%E5%A4%AE%E8%A7%86.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
@@ -173,6 +174,12 @@
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
 {"key":"极速资源","name":"💖极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},   
+
+
+        {"key":"drpy_js_奇珍异兽","name":"💖奇异[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
+        {"key":"drpy_js_优酷","name":"💖优酷[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E4%BC%98%E9%85%B7.js"},
+        {"key":"drpy_js_腾云驾雾","name":"💖腾雾[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
+        {"key":"drpy_js_百忙无果","name":"💖百果[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
 
 {"key": "歪片星球[资]","name": "🌸分享歪片","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "https://d.kstore.dev/download/4127/js/歪片.js"},
 {"key":"人人PHP","name":"🌸人人┃PHP","type":4,"api":"http://jiduo.3116598.xyz/PHP/rrsp.php","changeable":1},
