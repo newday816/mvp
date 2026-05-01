@@ -15,7 +15,15 @@
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"https://yparse.ik9.cc/index.php?url="},
 
 "sites":[
-
+{
+    "key":"听风资源",
+    "name":"听风资源┃刺桐",
+    "type":1,
+    "api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
+    "url":"https://jx.789jiexi.icu:4433/?url=",
+    "searchable":1,
+    "quickSearch":1
+},
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key":"弹幕","name":"🅿弹幕┃刷新自动启动","type":3,"api":"csp_GoConfigAmnsr","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
