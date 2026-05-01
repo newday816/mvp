@@ -10,7 +10,8 @@
 "logo":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jpg",
 
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-
+"adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"https://yparse.ik9.cc/index.php?url="},
+	
 "sites":[
 
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
