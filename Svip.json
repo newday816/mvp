@@ -6,7 +6,7 @@
 
 {"wallpaper":"https://深色壁纸.xxooo.cf/",
 "warningText":"Brilliant提示您：接口本人有时间就维护，完全免费！",
-"spider":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
+"spider":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jar",
 "logo":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jpg",
 
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
@@ -16,7 +16,7 @@
 
 "sites":[
 
-{"key":"Tg豆瓣","name":"🔍Tg豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,zaihuayun,PanjClub,yunpanpan,Quark_Movies,shareAliyun,BaiduCloudDisk","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
+{"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key":"弹幕","name":"🅿弹幕┃刷新自动启动","type":3,"api":"csp_GoConfigAmnsr","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
