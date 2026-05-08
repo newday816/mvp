@@ -5,7 +5,8 @@
 // 配置接口设定 --> clan://localhost/DIYBOX/文件名字.json
 
 {"wallpaper":"https://深色壁纸.xxooo.cf/",
-"warningText":"Brilliant提示您：接口本人有时间就维护，完全免费！",
+"warningText":"🍁Brilliant提醒您：1个月左右清下缓存，以更新最新数据🍁",
+"notice": "🍁Brilliant提醒您：1个月左右清下缓存，以更新最新数据🍁",
 "spider":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jar",
 "logo":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jpg",
 
