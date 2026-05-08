@@ -17,7 +17,7 @@
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key":"弹幕","name":"🅿弹幕┃刷新自动启动","type":3,"api":"csp_GoConfigAmnsr","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-{"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+{"key": "配置中心","name": "配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597},"jar":"https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/peizhi.jar"},
 {"key": "央视片库","name": "🇨🇳分享央视","type": 3,"api": "https://d.kstore.dev/download/4127/PY/%E5%88%86%E4%BA%AB%E5%A4%AE%E8%A7%86.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 {"key":"点播电影","name":"🌸点播┃电影3W","type":3,"searchable":0,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/live2vod.js","ext":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/feimaolive.json"},
 {"key": "索尼","name": "💖VIP专享-索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
