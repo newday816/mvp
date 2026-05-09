@@ -13,7 +13,7 @@
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key": "农民","name": "🧿农民｜影视","type": 3,"api": "csp_XBPQ","jar": "","ext": {"副标题": "欧歌专属","请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类url": "https://vip.wwgz.cn:5200/;;!H"}},
+{"key": "农民","name": "🧿农民｜影视","type": 3,"api": "csp_XBPQ","ext": {"副标题": "欧歌专属","请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类url": "https://vip.wwgz.cn:5200/;;!H"}},
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key": "配置中心","name": "🅿网盘配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597},"jar":"https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/peizhi.jar"},
