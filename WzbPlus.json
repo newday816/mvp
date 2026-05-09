@@ -5,8 +5,8 @@
 // 配置接口设定 --> clan://localhost/DIYBOX/文件名字.json
 
 {"wallpaper":"https://深色壁纸.xxooo.cf/",
-"warningText":"🍁Brilliant提醒您：1个月左右清下缓存，以更新最新数据🍁",
-"notice": "🍁Brilliant提醒您：1个月左右清下缓存，以更新最新数据🍁",
+"warningText":"👑Brilliant提醒您：1个月左右清下缓存，以更新最新数据👑",
+"notice": "👑Brilliant提醒您：1个月左右清下缓存，以更新最新数据👑",
 "spider":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jar",
 "logo":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jpg",
 
@@ -16,9 +16,10 @@
 
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
-{"key": "配置中心","name": "🅿网盘配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597},"jar":"https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/peizhi.jar"},
+{"key": "config","name": "🐲网盘｜配置","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/PZ.jar","api": "csp_Config","searchable": 0},
+{"key": "配置中心","name": "🅿配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597},"jar":"https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/peizhi.jar"},
 {"key": "央视片库","name": "🇨🇳分享央视","type": 3,"api": "https://d.kstore.dev/download/4127/PY/%E5%88%86%E4%BA%AB%E5%A4%AE%E8%A7%86.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
-{"key":"点播电影","name":"🌸点播┃电影3W","type":3,"searchable":0,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/live2vod.js","ext":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/feimaolive.json"},
+{"key":"点播电影","name":"🐲点播┃电影3W","type":3,"searchable":0,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/live2vod.js","ext":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/feimaolive.json"},
 {"key": "索尼","name": "💖VIP专享-索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
 {"key":"csp_xml_超速资源","name":"🔥超速资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "奴娜","name": "🔥奴娜丨APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.nntv.in/api.php/v1.vod"},
@@ -81,7 +82,8 @@
 {"key":"csp_hmhd","name":"🍒河马┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
 {"key":"csp_mgtva","name":"🌸木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
 {"key":"csp_ipianba","name":"🍒片吧┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
-
+{"key": "农民","name": "🧿农民｜影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/XBPQ.jpg","ext": {"副标题": "Brilliant专属","请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类url": "https://vip.wwgz.cn:5200/;;!H"}},
+{"key": "不卡","name": "🧿不卡｜影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/XBPQ.jpg","ext": {"副标题": "Brilliant专属","请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类url": "https://m.ycblcw.com/;;!H"}},
 {"key":"奇优","name":"️🍒奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/奇优.json"},
 {"key":"云播","name":"🍒云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>","数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词":".m3u8#mp4","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"xiaozhen","name":"💖小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
@@ -91,10 +93,6 @@
 {"key":"iysdq","name":"💖影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 {"key":"大全","name":"💖影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
 {"key":"fdoruw","name":"💖全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/qm/{cateId}-{catePg}.html","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},
-{"key":"Wwys2","name":"💖旺旺影视","type":3,"api":"csp_XBPQ",
-	"ext":{"请求头": "手机","编码": "UTF-8","简介": "剧情介绍:+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","线路数组": "javascript:;\">&&</a>","数组": "<li>&&</li>","图片": "data-echo=\"&&\"",
-        "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html",
-        "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "狐狸君","name": "💖狐君4K","type": 3,"api": "csp_XBPQ","changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
           "ext": {"搜索模式": "1","搜索url": "https://www.foxjun.com/s/?q={wd}","搜索数组": "class=\"media\">&&/div>", "搜索图片": "src=\"&&\"","搜索标题": "《&&》",
                   "搜索副标题": "》&&\"","搜索链接": "href=\"&&\"","标题": "《&&》","副标题": "》&&\"","影片年代": "上映日期：&&</p>","影片类型": "类型：&&</p>","主演": "主演：&&</p>","简介": "简介：&&</p>",
