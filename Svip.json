@@ -42,6 +42,8 @@
 {"key": "爱营","name": "💥爱影┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","searchable": 1,"changeable": 1,"api": "csp_AppGet","ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"},
 {"key": "3QQQ","name": "🍅大鹅┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","timeout": 15,"api": "csp_App3Q"},
 {"key": "麦田","name": "🌾麦田┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","api": "csp_AppV6","ext": "http://172.247.227.203:25321/mtys.php"},
+{"key": "csp_Gz360","name": "🍉瓜子┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","timeout": 12,"searchable": 1,"quickSearch": 0,"api": "csp_Gz360"},
+{"key": "csp_Jpys","name": "🥇金牌┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","timeout": 12,"searchable": 1,"quickSearch": 0,"api": "csp_Jpys","ext": "https://ghw9zwp5.com/"},
 {"key":"点播电影","name":"🐲点播┃电影3W","type":3,"searchable":0,"api":"https://gitee.com/zhan-zhaobb/707/raw/master/JS/live2vod.js","ext":"https://gitee.com/zhan-zhaobb/707/raw/master/JSON/feimaolive.json"},
 
 {"key":"网友系列","name":"⚡️↓网友系列↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
