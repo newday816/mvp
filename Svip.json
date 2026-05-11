@@ -13,7 +13,88 @@
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-
+    {
+      "key": "天天",
+      "name": "🚀秒播┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppRJ",
+      "timeout": 12,
+      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "🌾农民┃1080P",
+      "type": 3,
+      "api": "csp_Wwys",
+      "timeout": 12,
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+{
+      "key": "葫芦",
+      "name": "🪽葫芦┃1080P",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "新首发",
+      "name": "👻标清┃1080P",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+    },
+     {
+      "key": "四叶草",
+      "name": "🍀幸运┃1080P",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "猪猪",
+      "name": "🐷猪猪┃1080P",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "爱营",
+      "name": "💥爱影┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "3QQQ",
+      "name": "🍅大鹅┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_App3Q"
+    },
+    {
+      "key": "独播库",
+      "name": "🌳独播┃1080P",
+      "type": 3,
+      "api": "https://asxav.tprssz.com/image/2026-04-09/8/2042044022836473856#dbokutv.js"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥火火┃1080P",
+      "type": 3,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "麦田",
+      "name": "🌾麦田┃1080P",
+      "type": 3,
+      "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php"
+    },
+	
 {"key":"csp_DouBan","name":"🍁豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key": "config","name": "🅿网盘｜配置","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/PZ.jar","api": "csp_Config","searchable": 0},
