@@ -15,6 +15,7 @@
 "sites":[
 
 {"key":"csp_DouBan","name":"👑豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "弹幕","name": "📽弹幕配置","type": 3,"api": "csp_Huban","jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/danmu.jar","searchable": 0,"changeable": 0},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
 {"key": "config","name": "🅿网盘｜配置","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/PZ.jar","api": "csp_Config","searchable": 0},
 {"key": "配置中心","name": "🅿配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597},"jar":"https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/peizhi.jar"},
@@ -152,7 +153,7 @@
         {"key":"drpy_js_腾云驾雾","name":"💖腾雾[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
         {"key":"drpy_js_百忙无果","name":"💖百果[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
 
-{"key": "csp_XYQHikerdyx","name": "🐟4K电影港","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/json/电影港.json","jar":"https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"},
+{"key": "csp_XYQHikerdyx","name": "🐠4K电影港","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/json/电影港.json","jar":"https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"},
 {"key": "歪片星球[资]","name": "💖分享歪片","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "https://d.kstore.dev/download/4127/js/歪片.js"},
 {"key":"人人PHP","name":"💖人人┃PHP","type":4,"api":"http://jiduo.3116598.xyz/PHP/rrsp.php","changeable":1},
 
