@@ -10,7 +10,7 @@
 "logo":"https://gitee.com/zhan-zhaobb/707/raw/master/wzb.jpg",
 
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-{"key": "csp_Wwys","name": "🌾农民┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","api": "csp_Wwys","timeout": 12,"},
+
 {"key": "葫芦","name": "🪽葫芦┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","api": "csp_AppGet"},
 {"key": "新首发","name": "👻标清┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","api": "csp_AppGet"},
 {"key": "四叶草","name": "🍀幸运┃1080P","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/demo.jar","api": "csp_AppGet","ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"},
