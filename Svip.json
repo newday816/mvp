@@ -13,7 +13,10 @@
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-
+{"key": "橘汁","name": "♨️橘汁｜4K线路","type": 3,"jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/14k.jar","api": "csp_AppDrama","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"appName": "橘汁","publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB","publicIv": "ed5fdsgucxumegqa","dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==","dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E","pkg": "com.tjjiangh.android","host": "","site": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/JSON/az5.txt","version": "3.0.1.9","decrypt": "1"}},
+{"key": "方舟动漫","name": "🌈方舟丨动漫","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext": {"url": "https://www.cyfz.top","dataKey": "e72cdfd629e8895d","dataIv": "e72cdfd629e8895d"}},
+{"key": "曼波动漫","name": "🌈曼波｜动漫","type": 3,"searchable": 1,"api": "csp_AppGet","ext": {"url": "https://app.omofun1.top","dataKey": "66dc309cbeeca454","dataIv": "66dc309cbeeca454"}},
+{"key": "番薯动漫","name": "🌈番薯丨动漫","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext": {"url": "https://new.app.bytegooty.com","dataKey": "N4yj7l7xKxHF4*gz","dataIv": "N4yj7l7xKxHF4*gz"}},
 {"key":"csp_DouBan","name":"👑豆瓣推荐","type":3,"api":"csp_DouBan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "弹幕","name": "📽弹幕配置","type": 3,"api": "csp_Huban","jar": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/jar/danmu.jar","searchable": 0,"changeable": 0},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
