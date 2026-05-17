@@ -692,7 +692,7 @@ var rule = {
     play_parse: true,
     lazy: $js.toString(() => {
         try {
-            let api="https://yparse.ik9.cc/index.php?url=" + input.split("?")[0];
+            let api="https://v.qq.com/x/cover/mzc002009g0nh88/n4102i62zog.html" + input.split("?")[0];
             console.log(api);
             let response = fetch(api, {
                 method: 'get',
