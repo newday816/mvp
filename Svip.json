@@ -75,7 +75,7 @@
 {"key": "骚火影视","name": "💖骚火｜影视","type": 3,"api": "csp_SaoHuo","ext": "https://shdy5.us"},
 {"key": "农民影视","name": "💖农民｜影视","type": 3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"},
 {"key": "爱看机器人","name": "💖爱看｜影视","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "👑Brilliant4K","name": "👑Brilliant4K","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant4k.js"},
+{"key": "👑Brilliant4K","name": "👑Brilliant4K","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/BB.js"},
 
 
 {"key":"网友系列","name":"⚡️↓网友系列↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
