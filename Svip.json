@@ -14,7 +14,7 @@
 
 "sites":[
 {"key": "新腾极4k","name": "💥Brilliant","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant4k.js"},
-{"key": "Brilliant4k","name": "🔥好用","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/BB.js"},
+{"key": "Brilliant4k","name": "🔥好用","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/BB.js"},
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "弹幕","name": "📽弹幕配置","type": 3,"api": "csp_Huban","jar": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/jar/danmu.jar","searchable": 0,"changeable": 0},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
