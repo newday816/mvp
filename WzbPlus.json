@@ -132,6 +132,12 @@
 "searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","搜索url":"https://www.heitujc.com/search/-------------.html?wd={wd}","搜索数组":"<a class=\"video-pic&&</a","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","分类url":"https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
 
 {"key":"官采资源","name":"⚡️↓官采资源↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
+{"key": "涛涛采集聚合","name": "💖采集丨聚合","type": 4,"api": "http://zhangqun1818.serv00.net/cj/cjjh.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"ext": "1","changeable": 1},
+{"key": "云播","name": "🔥┃云播┃秒播","type": 1,"api": "http://app.hktvyb.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+{"key": "hohaiemby","name": "🔥EMBY┃秒播","type": 3,"api": "https://gitee.com/q309972108/tv/raw/master/tv/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+{"key": "iQiYi影视","name": "🔥iQiYi丨采集","type": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "无水印采集","name": "🔥4K┃采集","type": 1,"api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list","categories": ["4K电影","Netflix电影","Netflix自制剧","邵氏电影","国产剧","欧美剧","香港剧","韩剧","台湾剧","日剧","海外剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","战争片","动漫电影","国产动漫","日韩动漫","欧美动漫","反转爽剧","古装仙侠","现代都市","漫剧","有声动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
+{"key": "爬虫影视","name": "🔥爬虫丨影视","type": 1,"api": "https://dy.7772888.xyz/api.php/tvbox","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"嗷呜金牌影院","name":"💖分享嗷呜","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},
 {"key": "唐人","name": "💖分享唐人","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"}},
 {"key": "如意资源","name": "💖分享如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
