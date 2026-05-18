@@ -132,6 +132,7 @@
 "searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","搜索url":"https://www.heitujc.com/search/-------------.html?wd={wd}","搜索数组":"<a class=\"video-pic&&</a","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","分类url":"https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
 
 {"key":"官采资源","name":"⚡️↓官采资源↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
+{"key": "采集之王","name": "👑采集之王","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2min.js","searchable": 1,"quickSearch": 1,"order_num": 142,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/采集之王.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/采集静态.json$1$1"},
 {"key": "涛涛采集聚合","name": "💖采集丨聚合","type": 4,"api": "http://zhangqun1818.serv00.net/cj/cjjh.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"ext": "1","changeable": 1},
 {"key": "云播","name": "🔥┃云播┃秒播","type": 1,"api": "http://app.hktvyb.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "hohaiemby","name": "🔥EMBY┃秒播","type": 3,"api": "https://gitee.com/q309972108/tv/raw/master/tv/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
