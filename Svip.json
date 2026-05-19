@@ -100,6 +100,8 @@
 {"key": "天天美剧网（APP）","name": "💖天天美剧｜APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/"},
 
 {"key":"XBPQ系列","name":"⚡️↓XBPQ系列↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
+	{"key": "电影先生","name": "🔥电影┃先生","type": 3,"api": "csp_XBPQ",
+"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url": "https://silidm.com/","数组": "class=\"module-item-cover\"&&</div>","标题": "title=\"&&\"","图片": "data-original=\"&&\"","链接": "href=\"&&\"","播放数组": "class=\"play-source-content&&</div>","播放列表": "<a&&a>","播放链接": "href=\"&&\"","播放标题": ">&&</","线路数组": "class=\"play-source-tab\"&&div>","线路标题": "播放器","跳转播放链接": "var player_*\"url\":\"&&\"","分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"}},
 {"key":"热播之家","name":"🍒热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
 {"key":"csp_hmhd","name":"🍒河马┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
 {"key":"csp_mgtva","name":"🌺木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
