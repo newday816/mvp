@@ -41,31 +41,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-         {
-            "key": "猎豹",
-            "name": "♾️┃猎豹┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://444421.xyz",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025"
-            }
-        },
-        {
-            "key": "猎豹",
-            "name": "猎豹｜JAR",
-            "type": 3,
-
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://444421.xyz",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025"
-            }
-        },
 
         {
             "key": "csp_魔方",
@@ -90,6 +65,8 @@
                 "dataIv": "685bf108bc47b67d"
             }
         },
+
+
 
 
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
