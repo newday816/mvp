@@ -139,7 +139,7 @@
 {"key": "hohaiemby","name": "🔥EMBY┃秒播","type": 3,"api": "https://gitee.com/q309972108/tv/raw/master/tv/js/Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "iQiYi影视","name": "🔥iQiYi丨采集","type": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "无水印采集","name": "🔥4K┃采集","type": 1,"api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list","categories": ["4K电影","Netflix电影","Netflix自制剧","邵氏电影","国产剧","欧美剧","香港剧","韩剧","台湾剧","日剧","海外剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","战争片","动漫电影","国产动漫","日韩动漫","欧美动漫","反转爽剧","古装仙侠","现代都市","漫剧","有声动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
-{"key": "爬虫影视","name": "🔥爬虫丨影视","type": 1,"api": "https://dy.7772888.xyz/api.php/tvbox","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "爬虫影视","name": "🔥爬虫丨影视","type": 1,"api": "https://raw.giteeusercontent.com/zhan-zhaobb/707/raw/master/JSON/pachong.json","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"嗷呜金牌影院","name":"🔥分享嗷呜","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},
 {"key": "唐人","name": "🔥分享唐人","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"}},
 {"key": "如意资源","name": "🔥分享如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
