@@ -78,7 +78,7 @@
 {"key": "👑Brilliant4K","name": "👑Brilliant4K","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/brilliant4k.js"},
 {"key": "csp_蓝鹰","name": "💕蓝鹰┃JS","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%93%9D%E9%B9%B0.js","ext": {"host": "http://154.219.117.157:6688/","key": "ca94b06ca359d80e","类型": "APP","api": 2}}, 
 {"key": "蓝鹰","name": "💕蓝鹰｜JAR","type": 3,
-"api": "csp_AppQi","searchable": 1,"changeable": 1,"ext": {"site": "http://154.219.117.157:6688","dataKey": "ca94b06ca359d80e","dataIv": "ca94b06ca359d80e","init": "initV120","ua": "okhttp/3.10.0"}},
+"api": "csp_AppQi","searchable": 1,"changeable": 1,"ext": {"site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt","dataKey": "ca94b06ca359d80e","dataIv": "ca94b06ca359d80e","init": "initV120","ua": "okhttp/3.10.0"}},
 {"key": "csp_魔方","name": "💕魔方┃App","type": 3,"api": "csp_AppGet","ext": {"url": "https://www.alibaba31casaq.top/","dataKey": "1234567887654321","dataIv": "1234567887654321"}},
 {"key": "csp_新剧","name": "💕新剧┃App","type": 3,"api": "csp_AppGet","ext": {"url": "http://211.154.24.56:8369","dataKey": "685bf108bc47b67d","dataIv": "685bf108bc47b67d"}},
 
