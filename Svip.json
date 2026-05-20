@@ -26,7 +26,7 @@
     "分类url": "https://www.xmhxdq.com/vodtype/{cateId}.html",
     "分类页码链接": "https://www.xmhxdq.com/vodtype/{cateId}-{catePg}.html",
     
-    "数组": "<div class=\"stui-vodlist__box\">&&</div>",
+    "数组": "class=\"stui-vodlist__box\"&&</div>",
     "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
     "图片": "data-original=\"&&\"",
@@ -36,7 +36,7 @@
     "详情图片": "data-original=\"&&\"",
     "详情简介": "<p class=\"col-pd\">&&</p>",
     
-    "播放数组": "<div class=\"stui-pannel_bd col-pd clearfix\">&&</div>",
+    "播放数组": "<ul class=\"stui-content__playlist clearfix\">&&</ul>",
     "播放列表": "<li&&</li>",
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\""
