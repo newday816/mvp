@@ -13,65 +13,7 @@
 "lives":[{"name":"Yoursmile","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{
-  "key": "xmhxdq",
-  "name": "茶杯狐影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "search": false,
-  "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#",
-    "分类url": "https://www.xmhxdq.com/vodtype/{cateId}.html",
-    "分类页码链接": "https://www.xmhxdq.com/vodtype/{cateId}-{catePg}.html",
-    
-    "数组": "class=\"stui-vodlist__box\"&&</div>",
-    "标题": "title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "图片": "data-original=\"&&\"",
-    
-    "详情数组": "<div class=\"stui-pannel__bd\">&&<div class=\"stui-pannel__bd\">",
-    "详情标题": "<h1 class=\"title\">&&</h1>",
-    "详情图片": "data-original=\"&&\"",
-    "详情简介": "<p class=\"col-pd\">&&</p>",
-    
-    "播放数组": "<ul class=\"stui-content__playlist clearfix\">&&</ul>",
-    "播放列表": "<li&&</li>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\""
-  }
-},
-{
-  "key": "xmhxdq",
-  "name": "茶杯狐影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "search": false,
-  "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#",
-    "分类url": "https://www.xmhxdq.com/vodtype/{cateId}.html",
-    "分类页码链接": "https://www.xmhxdq.com/vodtype/{cateId}-{catePg}.html",
-    
-    "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-    "标题": "title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "图片": "data-original=\"&&\"",
-    
-    "详情数组": "<div class=\"stui-pannel__bd\">&&<div class=\"stui-player__video\">",
-    "详情标题": "<h1 class=\"title\">&&</h1>",
-    "详情图片": "class=\"stui-vodlist__thumb\" data-original=\"&&\"",
-    "详情简介": "class=\"detail-content\"&&</div>",
-    
-    "播放数组": "<div class=\"stui-player__data\">&&<div class=\"stui-pannel__bd\">",
-    "播放线路": "<li class=\"active\">&&</li>",
-    "播放列表": "<li&&</li>",
-    "播放标题": "title=\"&&\"",
-    "播放链接": "href=\"&&\""
-  }
-},
+
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "弹幕","name": "📽弹幕配置","type": 3,"api": "csp_Huban","jar": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/jar/danmu.jar","searchable": 0,"changeable": 0},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
