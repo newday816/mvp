@@ -52,23 +52,23 @@
   "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#",
     "分类url": "https://www.xmhxdq.com/vodtype/{cateId}.html",
     "分类页码链接": "https://www.xmhxdq.com/vodtype/{cateId}-{catePg}.html",
     
-    "数组": "<div class=\"module-item\">&&</div>",
+    "数组": "<div class=\"stui-vodlist__box\">&&</div>",
     "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
     "图片": "data-original=\"&&\"",
     
-    "详情数组": "<div class=\"module-info\">&&<div class=\"module-player\">",
-    "详情标题": "<h1 class=\"module-title\">&&</h1>",
-    "详情图片": "class=\"module-item-pic\" data-original=\"&&\"",
-    "详情简介": "class=\"module-info-introduction\">&&</div>",
+    "详情数组": "<div class=\"stui-pannel__bd\">&&<div class=\"stui-player__video\">",
+    "详情标题": "<h1 class=\"title\">&&</h1>",
+    "详情图片": "class=\"stui-vodlist__thumb\" data-original=\"&&\"",
+    "详情简介": "class=\"detail-content\"&&</div>",
     
-    "播放数组": "<div class=\"module-player-list\">&&</div>",
-    "播放线路": "<div class=\"module-player-tab\">&&</div>",
-    "播放列表": "<a&&</a>",
+    "播放数组": "<div class=\"stui-player__data\">&&<div class=\"stui-pannel__bd\">",
+    "播放线路": "<li class=\"active\">&&</li>",
+    "播放列表": "<li&&</li>",
     "播放标题": "title=\"&&\"",
     "播放链接": "href=\"&&\""
   }
