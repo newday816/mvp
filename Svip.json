@@ -14,22 +14,17 @@
 
 "sites":[
 
-	{
-  "key": "rpynx",
-  "name": "日品影视┃BPQ",
+{
+  "key": "test",
+  "name": "测试",
   "type": 3,
   "api": "csp_XBPQ",
   "ext": {
-    "分类url": "https://www.rpynx.com/show/{cateId}_{catePg}.html",
-    "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-    "数组": "<div class=\"module-item-pic\">&&</div>",
-    "图片": "data-src=\"&&\"",
-    "标题": "alt=\"&&\"",
-    "链接": "href=\"&&\"",
-    "副标题": "<div class=\"module-item-text\">&&</div>",
-    "播放数组": "<div class=\"module-play-list\">&&</div>",
-    "播放列表": "<a&&/a>",
-    "播放链接": "href=\"&&\""
+    "分类url": "https://www.rpynx.com/show/1_1.html",
+    "分类": "电影$1",
+    "数组": "<a&&</a>",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\""
   }
 },
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
