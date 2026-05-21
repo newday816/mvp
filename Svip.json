@@ -21,7 +21,12 @@
   "api": "csp_XBPQ",
   "ext": {
     "分类url": "https://www.rpynx.com/show/{cateId}/page/{catePg}.html",
-    "分类": "电影$1#电视剧$2#短剧$3#动漫$4#综艺$5#Netflix$48"
+    "分类": "电影$1#电视剧$2#短剧$3#动漫$4#综艺$5#Netflix$48",
+    "数组": "class=\"fed-list-item&&</li>",
+    "图片": "data-original=\"&&\"",
+    "标题": "fed-list-title\">&&</a>",
+    "链接": "href=\"&&\"",
+    "副标题": "fed-list-remarks&&</span>"
   }
 },
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
