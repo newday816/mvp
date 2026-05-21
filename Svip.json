@@ -14,6 +14,24 @@
 
 "sites":[
 
+	{
+  "key": "rpynx",
+  "name": "日品影视┃BPQ",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+    "分类url": "https://www.rpynx.com/show/{cateId}_{catePg}.html",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+    "数组": "<div class=\"module-item-pic\">&&</div>",
+    "图片": "data-src=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "链接": "href=\"&&\"",
+    "副标题": "<div class=\"module-item-text\">&&</div>",
+    "播放数组": "<div class=\"module-play-list\">&&</div>",
+    "播放列表": "<a&&/a>",
+    "播放链接": "href=\"&&\""
+  }
+},
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "弹幕","name": "📽弹幕配置","type": 3,"api": "csp_Huban","jar": "https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/jar/danmu.jar","searchable": 0,"changeable": 0},
 {"key":"drpy_js_豆瓣","name":"🍁豆瓣[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/newday816/mvp/refs/heads/main/js/%E8%B1%86%E7%93%A3.js"},
