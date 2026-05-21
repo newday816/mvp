@@ -19,7 +19,6 @@
   "name": "零零七影视┃BPQ",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/zhan-zhaobb/vip/raw/master/xbpq.jar",
   "ext": {
     "分类url": "https://www.rpynx.com/show/{cateId}_{catePg}.html",
     "分类": "电影$1#电视剧$2#短剧$3#动漫$4#综艺$5#Netflix$48",
