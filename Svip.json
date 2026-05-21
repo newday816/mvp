@@ -15,33 +15,18 @@
 "sites":[
 
 {
-  "key": "rpynx",
+  "key": "lingqiyingyin",
   "name": "零零七影视",
   "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "playerType": "2",
   "api": "csp_XBPQ",
   "ext": {
-    "站名": "零零七影视",
-    "主页url": "aHR0cHM6Ly93d3cucnB5bnguY29t",
-    "分类url": "https://www.rpynx.com/show/{cateId}_{catePg}.html",
+    "分类url": "https://www.rpynx.com/show/{cateId}/page/{catePg}.html",
     "分类": "电影$1#电视剧$2#短剧$3#动漫$4#综艺$5#Netflix$48",
-    "数组": "fed-list-item&&/li>",
+    "数组": "class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
-    "标题": "fed-list-title\">&&</a>",
+    "标题": "class=\"fed-list-title&&</a>",
     "链接": "href=\"&&\"",
-    "副标题": "fed-list-remarks\">&&</span>",
-    "搜索url": "aHR0cHM6Ly93d3cucnB5bnguY29tL3NlYXJjaC5odG1sO3Bvc3Q7c2VhcmNod29yZD17d2R9",
-    "搜索模式": "1",
-    "搜索数组": "fed-list-item&&/li>",
-    "搜索图片": "data-original=\"&&\"",
-    "搜索标题": "fed-list-title\">&&</a>",
-    "搜索链接": "href=\"&&\"",
-    "搜索副标题": "fed-list-remarks\">&&</span>",
-    "简介": "fed-conv-text\">&&</p>",
-    "导演": "导演：</span>&&</li>",
-    "主演": "主演：</span>&&</li>"
+    "副标题": "fed-list-remarks&&</span>"
   }
 },
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
