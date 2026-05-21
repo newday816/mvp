@@ -15,16 +15,37 @@
 "sites":[
 
 {
-  "key": "test",
-  "name": "测试",
+  "key": "rpynx",
+  "name": "零零七影视┃BPQ",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitee.com/zhan-zhaobb/vip/raw/master/xbpq.jar",
   "ext": {
-    "分类url": "https://www.rpynx.com/show/1_1.html",
-    "分类": "电影$1",
-    "数组": "<a&&</a>",
+    "分类url": "https://www.rpynx.com/show/{cateId}_{catePg}.html",
+    "分类": "电影$1#电视剧$2#短剧$3#动漫$4#综艺$5#Netflix$48",
+    "数组": "<a class=\"fed-list-pics&&</a>",
+    "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
-    "链接": "href=\"&&\""
+    "链接": "href=\"&&\"",
+    "副标题": "<span class=\"fed-list-remarks\">&&</span>",
+    "搜索url": "https://www.rpynx.com/search.html;post;searchword={wd}",
+    "搜索数组": "<a class=\"fed-list-pics&&</a>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索标题": "title=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "搜索副标题": "<span class=\"fed-list-remarks\">&&</span>",
+    "线路数组": "线路切换&&</div>",
+    "线路标题": "<li class=\"fed-padding\"><a&&/a>",
+    "播放数组": "<ul class=\"fed-tabs-btm&&</ul>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "简介": "<p class=\"fed-conv-text\">&&</p>",
+    "导演": "导演：</span>&&</li>",
+    "主演": "主演：</span>&&</li>",
+    "状态": "更新：</span>&&</li>",
+    "地区": "地区：</span>&&</a>",
+    "年份": "年份：</span>&&</a>"
   }
 },
 {"key":"豆瓣","name":"👑豆瓣推荐","type":3,"api":"csp_Douban","searchable":1,"quickSearch":1,"filterable":1},
