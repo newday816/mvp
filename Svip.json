@@ -110,6 +110,10 @@
 
 
 {"key":"网友系列","name":"⚡️↓网友系列↓⚡️","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
+{"key":"csp_AppRJ_潮流_FM","name":"🔱潮流(SP)","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
+{"key":"csp_AppGet_猫抓_FM","name":"🔱猫抓(SP)","type":3,"api":"csp_AppGet","ext":"https://app.95112475.xyz|5a9w6x58dsq6z3a6"},
+{"key":"csp_AppGet_蔬菜_FM","name":"🔱蔬菜(SP)","type":3,"api":"csp_AppGet","ext":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"},
+{"key":"csp_AppGet_永永_FM","name":"🔱永永(SP)","type":3,"api":"csp_AppGet","ext":"https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"},
 {"key":"csp_SaoHuo","name":"💕骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://saohuody.com"},
 {"key":"面包","name":"💕面包","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影$20#电视剧$21#动漫$23#综艺$22#短剧$47","简介":"简介：&&"}},
 {"key":"影视大全","name":"💕影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
